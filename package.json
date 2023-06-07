@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "d-fuji's prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:d-fuji/prettier-config.git",
+  "author": "d-fuji",
+  "license": "ISC"
+}
