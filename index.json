@@ -1,12 +1,6 @@
 {
-  "tabWidth": 2,
   "semi": false,
-  "useTabs": true,
   "singleQuote": true,
-  "endOfLine": "auto",
-  "bracketSpacing": true,
-  "arrowParens": "always",
-  "trailingComma": "es5",
-  "bracketSameLine": false,
-  "quoteProps": "as-needed"
+  "useTabs": true,
+  "trailingComma": "es5"
 }
