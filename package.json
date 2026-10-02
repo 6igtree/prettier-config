@@ -1,9 +1,19 @@
 {
-  "name": "prettier-config",
-  "version": "1.0.0",
-  "description": "d-fuji's prettier config",
+  "name": "@6igtree/prettier-config",
+  "version": "2.0.0",
+  "description": "6igtree's shared Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:d-fuji/prettier-config.git",
-  "author": "d-fuji",
-  "license": "ISC"
+  "files": [
+    "index.json"
+  ],
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": "github:6igtree/prettier-config",
+  "author": "6igtree",
+  "license": "ISC",
+  "peerDependencies": {
+    "prettier": ">=3"
+  }
 }
